@@ -32,7 +32,7 @@ Content
     c.	Select the best model
     d.	Model implementation and tunning
     e.	Visualization and upscaling
-6.	Final project, summary, and conclusion (30 min)
+6.	Final project, summary, and conclusion
 
 After attending the sessions, the students are expected to be able to:
 
