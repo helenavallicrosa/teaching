@@ -5,11 +5,11 @@ Course 1.845: Terrestrial carbon cycle and ecosystem ecology, led by Prof. Cesar
 Massachusetts Institute of Technology, Civil and Environmental Engineering department
 Introduces the terrestrial carbon cycle in a climate change context, with a focus on ecosystem ecology and biogeochemistry.
 
-Description
+Description <br/>
 These are the materials included in the practical sessions on course 1.845: Terrestrial carbon cycle and ecosystem ecology. Their goal is to provide students with tools and good practices to face data analysis applied to earth sciences using R. Then, the students can practice those skills by using the provided data and following the process of data curation, data analysis, and interpretation. The students are going to learn the basics of R programming, the highlights of C cycle modeling and modeling in ecology, how to work with maps and geographical information systems, the basics and how to use data synthesis techniques such as metanalysis, and how to use machine learning to upscale the results.
 
-Prior knowledge 
-We are initially targeting students interested in earth systems and environmental sciences, willing to acquire basic skills and good practices to face, analyze, and interpret data. No previous knowledge in programming is required.
+Prior knowledge <br/>
+We are initially targeting students interested in earth systems and environmental sciences, willing to acquire basic skills and good practices to face, analyze, and interpret data. No previous knowledge of programming is required.
 
 Content
 
