@@ -1,5 +1,5 @@
 # teaching
-In this repository, I am including the R materials I designed and created for teaching purposes.
+In this repository, I am including the R materials I designed and created for teaching purposes. Still a work in progress.
 
 Course 1.845: Terrestrial carbon cycle and ecosystem ecology, led by Prof. Cesar Terrer.
 Massachusetts Institute of Technology, Civil and Environmental Engineering department. <br/>
