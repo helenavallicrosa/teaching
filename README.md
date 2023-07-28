@@ -2,7 +2,7 @@
 In this repository, I am including the R materials I designed and created for teaching purposes.
 
 Course 1.845: Terrestrial carbon cycle and ecosystem ecology, led by Prof. Cesar Terrer.
-Massachusetts Institute of Technology, Civil and Environmental Engineering department
+Massachusetts Institute of Technology, Civil and Environmental Engineering department. <br/>
 Introduces the terrestrial carbon cycle in a climate change context, with a focus on ecosystem ecology and biogeochemistry.
 
 Description <br/>
