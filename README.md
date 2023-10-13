@@ -25,14 +25,13 @@ Content
     a.	Lecture with basic concepts
     b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick
     c.	Extract information from maps using spatial data points
-4.	Metanalysis - Cesar
-5.	Machine learning algorithms – Helena
+4.	Machine learning algorithms – Helena
     a.	Introduction
     b.	Subsets selection
     c.	Select the best model
     d.	Model implementation and tunning
     e.	Visualization and upscaling
-6.	Final project, summary, and conclusion
+5.	Final project, summary, and conclusion
 
 After attending the sessions, the students are expected to be able to:
 
